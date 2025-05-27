@@ -19,7 +19,7 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 <br>
 <br>
 
-Meeting in *late June 2025* from 14.00 to 18.00 at VU Amsterdam  with <a href="https://gclara.gitlab.io/"> Gabriel Clara </a> (University of Twente) on *Regularization Through Noise: a study of algorithmic randomness in gradient descent training*.
+Meeting in *late June 2025 (24 or 25 to be determned soon)* from 14.00 to 18.00 at VU Amsterdam  with <a href="https://gclara.gitlab.io/"> Gabriel Clara </a> (University of Twente) on *Regularization Through Noise: a study of algorithmic randomness in gradient descent training*.
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
