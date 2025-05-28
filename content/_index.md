@@ -14,7 +14,7 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 
 # News
 
-<img src="/avatarGC.png" alt="Avatar Gabriel Clara" width="800" style="float: left;" /> 
+<img src="/AvatarGC.png" alt="Avatar Gabriel Clara" width="800" style="float: left;" /> 
 
 <br>
 <br>
