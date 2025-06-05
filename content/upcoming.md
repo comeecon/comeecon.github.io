@@ -32,6 +32,6 @@ title: "Upcoming"
     </tr>
     <tr class="drinks">
         <td>16:45-18:00</td>
-        <td>Drinks</td>
+        <td>Snacks and Drinks</td>
     </tr>
 </table>
