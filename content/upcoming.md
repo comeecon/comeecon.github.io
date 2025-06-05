@@ -4,7 +4,7 @@ title: "Upcoming"
 
 # Upcoming Meetings on summer 2025 
 
-* *June 25, 2025* from 14.00 to 18.00 at [VU Amsterdam](https://vu.nl/en/about-vu/more-about/vu-campus-map) main building (HG), floor 02, hallway A, room 24
+* *June 25, 2025* from 14.00 to 18.00 at [VU Amsterdam](https://vu.nl/en/about-vu/more-about/vu-campus-map) main building (HG), floor 02, hallway A, room 24. Information to join online will come soon.
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
