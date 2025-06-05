@@ -10,8 +10,6 @@ Starting in spring 2025, the series will feature interactive events where a spea
 
 The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [Kayané Robach](https://kayanerobach.github.io/).
 
-<img src="/comeeconLogoGif.gif" alt="CoMeEcon Gif" width="400px"/>
-
 # News
 
 <img src="/AvatarGabrielClara.png" alt="Avatar Gabriel Clara" width="800" style="float: left;" /> 
@@ -19,13 +17,18 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 <br>
 <br>
 
-Meeting in *late June 2025 (24 or 25, to be determined soon)* from 14.00 to 18.00 at VU Amsterdam  with <a href="https://gclara.gitlab.io/"> Gabriel Clara </a> (University of Twente) on *Regularization in the age of Machine Learning*.
+Meeting on *Wednesday June 25* from 14.00 to 18.00 at VU Amsterdam, HG building, room 02A24, with <a href="https://gclara.gitlab.io/"> Gabriel Clara </a> (University of Twente) on *Regularization in the age of Machine Learning*.
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
 # Contact and Sponsors
 
 Sign up for announcements in our [Google Group CoMeEcon](https://groups.google.com/g/comeecon/about).
+
+<img src="/comeeconLogoGif.gif" alt="CoMeEcon Gif" width="400px"/>
+<center>
+  COmputation - MEthodology - ECONometrics
+</center>
 
 This event is sponsored by the [Mathematical Statistics section of the VVSOR](https://www.vvsor.nl/mathematical-statistics/).
 
