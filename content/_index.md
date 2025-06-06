@@ -17,7 +17,7 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 <br>
 <br>
 
-Meeting on *Wednesday June 25* from 14.00 to 18.00 at VU Amsterdam, HG building, room 02A24, with <a href="https://gclara.gitlab.io/"> Gabriel Clara </a> (University of Twente) on **Regularization in the age of Machine Learning**. Information to join online will come soon.
+Meeting on *Wednesday June 25* from 14.00 to 18.00 at VU Amsterdam, HG building, room 02A24, with <a href="https://gclara.gitlab.io/"> Gabriel Clara </a> (University of Twente) on *Regularization in the age of Machine Learning*. Information to join online will come soon.
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
