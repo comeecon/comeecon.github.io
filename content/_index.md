@@ -23,7 +23,7 @@ Meeting on *Wednesday June 25* from 14.00 to 18.00 at VU Amsterdam, HG building,
 
 # Contact and Sponsors
 
-Sign up for announcements in our [Google Group CoMeEcon](https://groups.google.com/g/comeecon/about).
+Sign up for announcements in our [Google Group CoMeEcon](https://groups.google.com/g/comeecon/c/QwCmwbgGUf0).
 
 <img src="/comeeconLogoGif.gif" alt="CoMeEcon Gif" width="400px"/>
 <center>
