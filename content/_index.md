@@ -21,7 +21,7 @@ Meeting on *Wednesday June 25* from 14.00 to 18.00 at VU Amsterdam, [HG building
 
 <br>
 
-[Access online](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZDkwM2NjNjgtYTk0YS00ZjdkLWIzYzktMTA2YjgzODFjOGY1%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268dfab1a-11bb-4cc6-beb5-28d756984fb6%2522%252c%2522Oid%2522%253a%2522cb51c0ab-64e4-40f0-b39f-f43dd1842d98%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=8d520743-2a18-41c3-9711-ade4725ee7e6&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true) (Meeting ID: *331 538 321 690 6*, Passcode: *o7vK7Lz2*).
+[Access online](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZDkwM2NjNjgtYTk0YS00ZjdkLWIzYzktMTA2YjgzODFjOGY1%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252268dfab1a-11bb-4cc6-beb5-28d756984fb6%2522%252c%2522Oid%2522%253a%2522cb51c0ab-64e4-40f0-b39f-f43dd1842d98%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=75c70769-015f-48b1-b1b0-7db526cf4881&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true) (Meeting ID: *331 538 321 690 6*, Passcode: *o7vK7Lz2*).
 
 *Get more details about upcoming meeting(s) [schedule and location](upcoming).*
 
