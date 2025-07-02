@@ -16,7 +16,6 @@ Next meeting in fall 2025
 
 <br>
 <br>
-<br>
 
 Our last meeting:
 
