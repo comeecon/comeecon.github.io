@@ -12,9 +12,9 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 
 # News
 
-Next meeting in fall 2025 
+Next meeting in fall 2025 .
 
-<br>
+
 <br>
 
 Our last meeting:

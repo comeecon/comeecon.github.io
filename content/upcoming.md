@@ -15,23 +15,23 @@ title: "Upcoming"
         <th>Program</th>
     </tr>
     <tr class="talk">
-        <td>14:15-15:15</td>
+        <td>14:10-15:10</td>
         <td> tba
         <br>
         </td>
     </tr>
     <tr class="drinks">
-        <td>15:15-15:45</td>
+        <td>15:10-15:30</td>
         <td>Tea break</td>
     </tr>
     <tr class="talk">
-        <td>15:45-16:45</td>
+        <td>15:30-16:30</td>
         <td> tba
         <br>
         </td>
     </tr>
     <tr class="drinks">
-        <td>16:45-18:00</td>
+        <td>16:30-17:30</td>
         <td>Snacks and Drinks</td>
     </tr>
 </table>
