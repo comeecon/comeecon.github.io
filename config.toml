@@ -9,7 +9,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "Amsterdam"
   title = "CoMeEcon"
-  subtitle = "Spring 2025"
+  subtitle = "Fall 2025"
   author = "Nuria Senar Villadeamigo, Kayané Robach"
   description = "CoMeEcon seminar series in Amsterdam on computational statistics."
   keywords = ["seminar", "workshop", "meeting", "computation", "statistics", "methodology"]
