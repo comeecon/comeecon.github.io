@@ -12,7 +12,7 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 
 # News
 
-<img src="/poster2.png" alt="Poster2" width="200" align="right" /> 
+<img src="/poster2.pdf" alt="Poster2" width="200" align="right" /> 
 
 Come and join our fall seminar in November 2025!
 More information coming soon.
