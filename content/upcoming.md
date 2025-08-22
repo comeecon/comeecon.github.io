@@ -4,7 +4,7 @@ title: "Upcoming"
 
 # Upcoming Meetings on fall 2025 
 
-* tba
+* November 2025
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
