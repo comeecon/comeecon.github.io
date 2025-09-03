@@ -6,6 +6,8 @@ title: "Upcoming"
 
 * November 2025
 
+**Validating validation** _Evaluating measures for clustering and classification_ by [Martijn Gösgens](https://martijngosgens.nl/) (CWI)
+
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
 
@@ -13,12 +15,6 @@ title: "Upcoming"
     <tr>
         <th style="width:20%">Time</th>
         <th>Program</th>
-    </tr>
-    <tr class="talk">
-        <td>Martijn Gösgens</td>
-        <td> **Validating validation** _Evaluating measures for clustering and classification_
-        <br>
-        </td>
     </tr>
     <tr class="talk">
         <td>14:10-15:10</td>
