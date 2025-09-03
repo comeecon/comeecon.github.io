@@ -15,6 +15,12 @@ title: "Upcoming"
         <th>Program</th>
     </tr>
     <tr class="talk">
+        <td>Martijn Gösgens</td>
+        <td> **Validating validation** _Evaluating measures for clustering and classification_
+        <br>
+        </td>
+    </tr>
+    <tr class="talk">
         <td>14:10-15:10</td>
         <td> tba
         <br>
