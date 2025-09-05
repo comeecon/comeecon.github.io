@@ -6,7 +6,7 @@ title: "Upcoming"
 
 * November 2025
 
-**Validating validation**
+<p style="font-weight:900">Validating validation</p>
 _Evaluating measures for clustering and classification_ 
 by [Martijn Gösgens](https://martijngosgens.nl/) (CWI)
 
