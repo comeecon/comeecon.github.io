@@ -6,9 +6,7 @@ title: "Upcoming"
 
 * November 2025
 
-<p style="font-weight:900">Validating validation</p>
-<p style="font-style:italic;">Evaluating measures for clustering and classification</p>
-<p> by <a href="https://martijngosgens.nl/">Martijn Gösgens</a> (CWI) </p>
+<p style="font-weight:900">Validating validation</p> <p style="font-style:italic;">Evaluating measures for clustering and classification</p> <p> by <a href="https://martijngosgens.nl/">Martijn Gösgens</a> (CWI) </p>
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
