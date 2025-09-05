@@ -7,7 +7,9 @@ title: "Upcoming"
 * November 2025
 
 <p style="font-weight:900">Validating validation</p>
-_Evaluating measures for clustering and classification_ 
+<p
+<em Evaluating measures for clustering and classification <\em> 
+</p>
 by [Martijn Gösgens](https://martijngosgens.nl/) (CWI)
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
