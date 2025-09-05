@@ -9,7 +9,7 @@ title: "Upcoming"
 <p>
   <span style="font-weight:900">Validating validation </span>
   <span style="font-style:italic;">Evaluating measures for clustering and classification </span>
-  <span by <a href="https://martijngosgens.nl/">Martijn Gösgens</a> (CWI) </span>
+  by <a href="https://martijngosgens.nl/">Martijn Gösgens</a> (CWI)
 </p>
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
