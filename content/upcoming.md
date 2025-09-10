@@ -4,11 +4,11 @@ title: "Upcoming"
 
 # Upcoming Meetings on fall 2025 
 
-* November 2025
+* November 19, 2025
 
 <p>
   <span style="font-weight:900">Validating validation </span>
-  <span style="font-style:italic;">Evaluating measures for clustering and classification </span>
+  <span style="font-style:italic;">Measures for Clustering and Classification Tasks </span>
   by <a href="https://martijngosgens.nl/">Martijn Gösgens</a> (CWI)
 </p>
 
