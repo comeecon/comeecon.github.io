@@ -12,6 +12,10 @@ title: "Upcoming"
   by <a href="https://martijngosgens.nl/">Martijn Gösgens</a> (CWI)
 </p>
 
+<p>
+In machine learning, many algorithms can be used for the same task, and benchmark experiments are often used to compare them. These experiments apply algorithms to datasets with known ground truth and then evaluate performance by comparing predictions with the ground truth. This seminar will focus on that last step: how should we measure the quality of an algorithm’s output? We will consider the classical problems of classification and clustering, for which many validation measures exist (e.g., the F1 score for classification or NMI for clustering). In practice, researchers often rely on the most commonly used measures, but many of these have severe biases. In this seminar, I will highlight these issues and present alternative measures that address them.
+</p>
+
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
 
@@ -22,7 +26,7 @@ title: "Upcoming"
     </tr>
     <tr class="talk">
         <td>14:10-15:10</td>
-        <td> tba
+        <td> Part 1
         <br>
         </td>
     </tr>
@@ -32,7 +36,7 @@ title: "Upcoming"
     </tr>
     <tr class="talk">
         <td>15:30-16:30</td>
-        <td> tba
+        <td> Part 2
         <br>
         </td>
     </tr>
