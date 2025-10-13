@@ -13,16 +13,10 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 # News
 
 <div>
-  <img style="vertical-align:middle" width="300" src="/poster_comeecon_2.png" alt="Poster2">
+  <img style="vertical-align:middle" width="300" src="/comeecon_img_2.png" alt="Event2">
   <span style="">Come and join our fall seminar on November 19!</span>
   <span style="">More information coming soon.</span>
 </div>
-
-<br>
-
-# Our last meeting
-
-<img src="/AvatarGabrielClara.png" alt="Avatar Gabriel Clara" width="800" style="float: left;" /> 
 
 <br>
 <br>

@@ -7,6 +7,8 @@ title: "Past"
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
 
+<img src="/AvatarGabrielClara.png" alt="Avatar Gabriel Clara" width="800" style="float: left;" /> 
+
 <table class="schedule">
     <tr>
         <th style="width:20%">Time</th>
