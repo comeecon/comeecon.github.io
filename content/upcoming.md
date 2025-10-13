@@ -4,7 +4,8 @@ title: "Upcoming"
 
 # Upcoming Meetings on fall 2025 
 
-* November 19, 2025
+* November 19, 2025 from 14.00 to 17.00
+* VU Amsterdam room NU-2B18 (or [join online](https://vu-live.zoom.us/j/92883954405?pwd=mkajene8kiY7DCSqkHw0mxl80imgC5.1))
 
 <p>
   <span style="font-weight:900">Validating validation </span>
