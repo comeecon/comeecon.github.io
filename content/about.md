@@ -17,7 +17,7 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
   <span style="">Come and join our fall seminar on November 19, 2025 from 14.00 to 17.00 at VU Amsterdam room NU-2B18 with Martijn Gösgens (CWI)!</span>
 </div>
 
-<a href="/comeecon_meeting.ics">Add to calendar!</a>
+<a href="/comeecon_calendar_meeting.ics">Click here to add the event to a calendar!</a>
 
 <br>
 <br>
