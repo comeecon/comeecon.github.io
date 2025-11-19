@@ -2,8 +2,11 @@
 title: "Upcoming"
 ---
 
-# Upcoming Meetings on fall 2025 
+# Upcoming Meetings on spring 2026
 
+* More info soon
+
+<!-- 
 * November 19, 2025 from 14.00 to 17.00
 * VU Amsterdam room NU-2B18 (or [join online](https://vu-live.zoom.us/j/92883954405?pwd=mkajene8kiY7DCSqkHw0mxl80imgC5.1))
 
@@ -45,4 +48,4 @@ In machine learning, many algorithms can be used for the same task, and benchmar
         <td>16:30-17:30</td>
         <td>Snacks and Drinks</td>
     </tr>
-</table>
+</table> -->
