@@ -46,7 +46,7 @@ Take your computer with you for some hands-on experience!
         </td>
     </tr>
     <tr class="drinks">
-        <td>16:30-</td>
+        <td>16:30-17:00</td>
         <td>Snacks and Drinks</td>
     </tr>
 </table>
