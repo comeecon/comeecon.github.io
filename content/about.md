@@ -6,7 +6,7 @@ The seminar series aims to bring together young researchers in computational sta
 
 <img src="/faviconcomeecon.png" alt="CoMeEcon Logo" width="300px"/>
 
-Starting in spring 2025, the series will feature interactive events where a speaker discuss the development of a popular method, from its basics to current innovations. Participants will engage in brainstorming sessions and collaborative problem solving, diving into both theoretical and practical frameworks. Some drinks will follow afterwards.
+The series will feature interactive events where a speaker discuss the development of a popular method, from its basics to current innovations. Participants will engage in brainstorming sessions and collaborative problem solving, diving into both theoretical and practical frameworks. Some drinks will follow afterwards.
 
 The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [Kayané Robach](https://kayanerobach.github.io/).
 
@@ -14,10 +14,10 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 
 <div>
   <img style="vertical-align:middle" width="400" src="/comeecon_img_2.png" alt="Event2">
-  <span style="">Come and join our fall seminar on November 19, 2025 from 14.00 to 17.00 at VU Amsterdam room NU-2B18 with Martijn Gösgens (CWI)!</span>
+  <span style="">Come and join our summer seminar on June 9, 2026 from 14.00 to 17.00 at VU Amsterdam NU4B47 with Ángel Reyero Lobo (CWI - Inria - IMT)!</span>
 </div>
 
-<a href="/comeecon_calendar_meeting.ics">Click here to add the event to a calendar!</a>
+<a href="/comeecon-meeting-beyond-coef.ics">Click here to add the event to a calendar!</a>
 
 <br>
 <br>
@@ -33,6 +33,6 @@ Sign up for announcements in our [Google Group CoMeEcon](https://groups.google.c
   COmputation - MEthodology - ECONometrics
 </center>
 
-This event is sponsored by the [Mathematical Statistics section of the VVSOR](https://www.vvsor.nl/mathematical-statistics/).
+This event is sponsored by the [Section Mathematical Statistics of the VVS-OR](https://www.vvsor.nl/mathematical-statistics/).
 
 <img src="/vvsorlogo.jpeg" alt="BigStatistics" width="400px"/>

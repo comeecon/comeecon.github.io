@@ -2,22 +2,23 @@
 title: "Upcoming"
 ---
 
-# Upcoming Meetings on spring 2026
+# Upcoming Meetings
 
-* More info soon
-
-<!-- 
-* November 19, 2025 from 14.00 to 17.00
-* VU Amsterdam room NU-2B18 (or [join online](https://vu-live.zoom.us/j/92883954405?pwd=mkajene8kiY7DCSqkHw0mxl80imgC5.1))
+* June 9, 2026 from 14.00 to 17.00
+* VU Amsterdam room NU-4B47 (a link will come later to join online)
 
 <p>
-  <span style="font-weight:900">Validating validation </span>
-  <span style="font-style:italic;">Measures for Clustering and Classification Tasks </span>
-  by <a href="https://martijngosgens.nl/">Martijn Gösgens</a> (CWI)
+  <span style="font-weight:900">Beyond Coefficients</span>
+  <span style="font-style:italic;">Understanding Variable Importance in Modern ML</span>
+  by <a href="https://angelreyero.github.io/">Ángel Reyero Lobo</a> (CWI - Inria - IMT)
 </p>
 
 <p>
-In machine learning, many algorithms can be used for the same task, and benchmark experiments are often used to compare them. These experiments apply algorithms to datasets with known ground truth and then evaluate performance by comparing predictions with the ground truth. This seminar will focus on that last step: how should we measure the quality of an algorithm’s output? We will consider the classical problems of classification and clustering, for which many validation measures exist (e.g., the F1 score for classification or NMI for clustering). In practice, researchers often rely on the most commonly used measures, but many of these have severe biases. In this seminar, I will highlight these issues and present alternative measures that address them.
+Classical statistical models offer straightforward interpretations through their coefficients, but modern machine learning models often behave as black boxes. This talk explores how variable importance methods evolved to bridge this interpretability gap. After discussing Random Forest importance measures and the emergence of model-agnostic permutation methods, we focus on the challenges posed by correlated variables and conditional dependencies. We present Conditional Feature Importance (CFI) and Leave One Covariate Out (LOCO) as principled alternatives.
+</p>
+
+<p>
+Take your computer with you for some hands-on experience!
 </p>
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
@@ -45,7 +46,7 @@ In machine learning, many algorithms can be used for the same task, and benchmar
         </td>
     </tr>
     <tr class="drinks">
-        <td>16:30-17:30</td>
+        <td>16:30-</td>
         <td>Snacks and Drinks</td>
     </tr>
-</table> -->
+</table>
