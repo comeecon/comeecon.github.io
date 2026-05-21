@@ -5,7 +5,7 @@ title: "Upcoming"
 # Upcoming Meetings
 
 * June 9, 2026 from 14.00 to 17.00
-* VU Amsterdam room NU-4B47 (a link will come later to join online)
+* VU Amsterdam room NU-4B47 (a link to join online will be provided later.)
 
 <p>
   <span style="font-weight:900">Beyond Coefficients</span>
