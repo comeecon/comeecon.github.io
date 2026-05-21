@@ -10,7 +10,7 @@ title: "Upcoming"
 <p>
   <span style="font-weight:900">Beyond Coefficients</span>
   <span style="font-style:italic;">Understanding Variable Importance in Modern ML</span>
-  by <a href="https://angelreyero.github.io/">Ángel Reyero Lobo</a> (CWI - Inria - IMT)
+  by <a href="https://angelreyero.github.io/">Ángel Reyero Lobo</a> (CWI-Inria-IMT)
 </p>
 
 <p>

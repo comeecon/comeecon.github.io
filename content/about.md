@@ -13,13 +13,12 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 # News
 
 <div>
-  <img style="vertical-align:middle" width="400" src="/comeecon_img_2.png" alt="Event2">
-  <span style="">Come and join our summer seminar on June 9, 2026 from 14.00 to 17.00 at VU Amsterdam NU4B47 with Ángel Reyero Lobo (CWI - Inria - IMT)!</span>
+  <img style="vertical-align:middle" width="700" src="/talk_angel.png" alt="Event3">
+  <span style="">Come and join our summer seminar on June 9, 2026 from 14.00 to 17.00 at VU Amsterdam NU4B47 with Ángel Reyero Lobo (CWI-Inria-IMT)!</span>
 </div>
 
 <a href="/comeecon-meeting-beyond-coef.ics">Click here to add the event to a calendar!</a>
 
-<br>
 <br>
 
 *Get more details about upcoming meeting(s) [schedule and location](upcoming).*
