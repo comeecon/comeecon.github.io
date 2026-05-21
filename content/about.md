@@ -19,7 +19,7 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 
 <a href="/comeecon-meeting-beyond-coef.ics">Click here to add the event to a calendar!</a>
 
-<br>
+
 
 *Get more details about upcoming meeting(s) [schedule and location](upcoming).*
 
