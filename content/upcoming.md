@@ -5,7 +5,8 @@ title: "Upcoming"
 # Upcoming Meetings
 
 * June 9, 2026 from 14.00 to 17.00
-* VU Amsterdam room NU-4B47 (a link to join online will be provided later.)
+* VU Amsterdam room NU-4B47
+* <a href="[https://angelreyero.github.io/](https://meet.jit.si/moderated/1c21523b22417fdf35229d3afb33a967b36020b62d2e452fd881cb36b194fdcf)">Join online</a>  
 
 <p>
   <span style="font-weight:900">Beyond Coefficients</span>
