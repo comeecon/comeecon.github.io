@@ -19,7 +19,7 @@ Classical statistical models offer straightforward interpretations through their
 </p>
 
 <p>
-Take your computer with you for some hands-on experience! (<a href="/HidimstatIntro.ipynb">HiDimStat Py-4-VI</a>, <a href="/VIMComparison.ipynb">Rashomon</a>, <a href="/Rashomon.ipynb">Rashomon</a>) Ángel's slides are <a href="/ARLslides.pdf">online</a>!
+Take your computer with you for some hands-on experience! (<a href="/ARLslides.pdf">Slides</a>, <a href="/HidimstatIntro.ipynb">HiDimStat Py-4-VI</a>, <a href="/VIMComparison.ipynb">Rashomon</a>, <a href="/Rashomon.ipynb">Rashomon</a>)
 </p>
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
